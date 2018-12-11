@@ -1,3 +1,4 @@
 # hello-world
 Testing
-hi.just a few edits tohe readme.
+hi. Just a few edits to the readme file.
+Fixed some typos in line 3.
